@@ -1,6 +1,8 @@
 💫 About Me :
 <h3 align="center">A passionate Fullstack developer,Data scientists and Medical doctor from Ethiopia.</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=be-haylu&label=Profile%20views&color=0e75b6&style=flat" alt="be-haylu" /> </p>
+
 - 🔭 I’m currently working on **Medical AI**
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
