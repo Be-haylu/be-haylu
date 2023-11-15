@@ -2,9 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=be-haylu&label=Profile%20views&color=0e75b6&style=flat" alt="be-haylu" /> </p>
 
-- 🔭 I’m currently working on **Embedded system and Medical AI  **
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask me about ...
+- 🔭 I’m currently working on **Embedded system and Medical AI**
 - 📫 How to reach me **behayludereje012@gmail.com**
 - 📄 Know about my experiences [My CV]()
 
