@@ -11,7 +11,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=be-haylu&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 🌐 Socials:
-
+[![](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)]()
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/be-haylu1) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/be_haylu) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/be.haylu)
