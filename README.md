@@ -1,6 +1,3 @@
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=be-haylu&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
 🌐 Socials:
 
 [![](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)]()
@@ -36,7 +33,7 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=be-haylu&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ![](https://github-readme-stats.vercel.app/api?username=be-haylu&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=be-haylu&theme=dark&hide_border=false)<br/>
