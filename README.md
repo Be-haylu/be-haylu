@@ -6,13 +6,12 @@
 - 📫 How to reach me **behayludereje012@gmail.com**
 - 📄 Know about my experiences [My CV](https://github.com/Be-haylu/Portifolio.git)
 
-![](https://github-readme-stats.vercel.app/api?username=be-haylu&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=be-haylu&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=be-haylu&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 🌐 Socials:
 
 [![](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)]()
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/be-haylu1) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/be_haylu) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/be.haylu)
@@ -46,6 +45,8 @@
 
 
 
+![](https://github-readme-stats.vercel.app/api?username=be-haylu&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=be-haylu&theme=dark&hide_border=false)<br/>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=be-haylu&theme=radical&no-frame=false&no-bg=true&margin-w=4)
