@@ -17,6 +17,7 @@
 [![]( https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white )]()
 [![](   https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white )]() 
 
+![](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![R]( https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white )
