@@ -26,9 +26,6 @@
 
 
 
-[//]: # "[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)]() 
-
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)]() "
 
 💻 Tech Stack:
 
